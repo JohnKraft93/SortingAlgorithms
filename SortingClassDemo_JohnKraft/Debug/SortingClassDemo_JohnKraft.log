@@ -1,0 +1,3 @@
+﻿  SortingClassDemo_JohnKraft.cpp
+C:\Users\storm\source\repos\SortingClassDemo_JohnKraft\SortingClassDemo_JohnKraft\SortingClassDemo_JohnKraft.cpp(178,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortingClassDemo_JohnKraft.vcxproj -> C:\Users\storm\source\repos\SortingClassDemo_JohnKraft\Debug\SortingClassDemo_JohnKraft.exe
